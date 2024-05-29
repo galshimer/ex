@@ -3,6 +3,8 @@ body{
     color: white;
 }
 .ball{
+    font-size: 22px;
+    font-weight: bold;;
     text-align: center;
     background-color: blueviolet;
     width: 50px;
